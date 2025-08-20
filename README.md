@@ -1,2 +1,2 @@
-# Psychology
-Vorlesungen
+# Applied Statistics & ML
+Code, Lecture, Talk
